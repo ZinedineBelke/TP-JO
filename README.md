@@ -5,7 +5,7 @@ Ce projet de data science vise à prédire le nombre de médailles susceptibles 
 
 Réalisé en binôme et implémenté sous forme de notebook Jupyter, ce projet s’appuie sur des données historiques remontant jusqu’à 1896, couvrant plus d’un siècle de compétitions olympiques. L’objectif est d’identifier des corrélations significatives entre les performances passées des nations et leurs résultats futurs, afin de construire un modèle prédictif pertinent.
 
-Objectifs du projet
+## OBJECTIFS DU PROJET
 
 Analyser l’évolution des performances olympiques des pays au fil du temps
 
@@ -17,7 +17,7 @@ Concevoir un algorithme de prédiction du nombre de médailles par pays pour l�
 
 Appliquer une démarche complète de data preparation → exploration → modélisation
 
-Données utilisées
+## DONNÉES UTILISÉ
 
 Les données exploitées couvrent l’ensemble des Jeux Olympiques modernes depuis 1896 et regroupent notamment :
 
@@ -35,7 +35,7 @@ la disparition ou la fusion de certains pays (ex : Yougoslavie),
 
 le changement de nom ou de structure politique de certaines nations (ex : URSS).
 
-Préparation et nettoyage des données
+## Préparation et nettoyage des données
 
 Avant toute phase de modélisation, plusieurs étapes clés ont été réalisées :
 
@@ -49,7 +49,7 @@ sélection des variables pertinentes pour l’analyse et la prédiction.
 
 Ce travail de data cleaning et de feature engineering a été essentiel pour garantir la qualité des analyses et la fiabilité du modèle final.
 
-Analyse exploratoire et visualisation
+## Analyse exploratoire et visualisation
 
 Une phase approfondie d’exploration des données (EDA) a permis :
 
@@ -61,7 +61,7 @@ de mettre en évidence des corrélations significatives entre les résultats pas
 
 Les visualisations ont joué un rôle central dans la compréhension des données et dans l’orientation des choix de modélisation.
 
-Modélisation et prédiction
+## Modélisation et prédiction
 
 À l’issue des phases de préparation et d’analyse, un algorithme de prédiction a été développé afin d’estimer le nombre de médailles susceptibles d’être remportées par chaque pays lors des Jeux Olympiques de 2024.
 
@@ -75,7 +75,7 @@ des variables explicatives issues du traitement des données.
 
 Les résultats obtenus sont présentés et analysés directement dans le notebook.
 
-Technologies et outils
+## Technologies et outils
 
 Python
 
